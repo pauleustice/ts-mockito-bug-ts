@@ -2,7 +2,6 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "foo": "apps/foo",
-    "foo-e2e": "apps/foo-e2e"
+    "mockito-test": "apps/mockito-test"
   }
 }
